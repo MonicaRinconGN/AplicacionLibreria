@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\universidad\noveno semestre\desarrollo de aplicaciones empresariales\unidad 2\examen\AplicacionLibreria\AccesoDatos\bin\Debug\net7.0\AccesoDatos.deps.json
+C:\Users\Usuario\Documents\universidad\noveno semestre\desarrollo de aplicaciones empresariales\unidad 2\examen\AplicacionLibreria\AccesoDatos\bin\Debug\net7.0\AccesoDatos.runtimeconfig.json
+C:\Users\Usuario\Documents\universidad\noveno semestre\desarrollo de aplicaciones empresariales\unidad 2\examen\AplicacionLibreria\AccesoDatos\bin\Debug\net7.0\AccesoDatos.dll
+C:\Users\Usuario\Documents\universidad\noveno semestre\desarrollo de aplicaciones empresariales\unidad 2\examen\AplicacionLibreria\AccesoDatos\bin\Debug\net7.0\AccesoDatos.pdb
+C:\Users\Usuario\Documents\universidad\noveno semestre\desarrollo de aplicaciones empresariales\unidad 2\examen\AplicacionLibreria\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\universidad\noveno semestre\desarrollo de aplicaciones empresariales\unidad 2\examen\AplicacionLibreria\AccesoDatos\obj\Debug\net7.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\universidad\noveno semestre\desarrollo de aplicaciones empresariales\unidad 2\examen\AplicacionLibreria\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\universidad\noveno semestre\desarrollo de aplicaciones empresariales\unidad 2\examen\AplicacionLibreria\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Usuario\Documents\universidad\noveno semestre\desarrollo de aplicaciones empresariales\unidad 2\examen\AplicacionLibreria\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\universidad\noveno semestre\desarrollo de aplicaciones empresariales\unidad 2\examen\AplicacionLibreria\AccesoDatos\obj\Debug\net7.0\AccesoDatos.dll
+C:\Users\Usuario\Documents\universidad\noveno semestre\desarrollo de aplicaciones empresariales\unidad 2\examen\AplicacionLibreria\AccesoDatos\obj\Debug\net7.0\refint\AccesoDatos.dll
+C:\Users\Usuario\Documents\universidad\noveno semestre\desarrollo de aplicaciones empresariales\unidad 2\examen\AplicacionLibreria\AccesoDatos\obj\Debug\net7.0\AccesoDatos.pdb
+C:\Users\Usuario\Documents\universidad\noveno semestre\desarrollo de aplicaciones empresariales\unidad 2\examen\AplicacionLibreria\AccesoDatos\obj\Debug\net7.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\Usuario\Documents\universidad\noveno semestre\desarrollo de aplicaciones empresariales\unidad 2\examen\AplicacionLibreria\AccesoDatos\obj\Debug\net7.0\ref\AccesoDatos.dll
