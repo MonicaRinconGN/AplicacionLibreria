@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Libros</title>
+</head>
+<body>
+    <h1>Librería Siglo XXI</h1>
+    <h2>Listado de libros</h2>
+
+    <!--  campo de búsqueda -->
+    <input type="text" id="campoBusqueda" placeholder="Buscar libro por título">
+
+    <!-- listado de libros -->
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Chapters</th>
+                <th>Pages</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody id="listadoLibros">
+            <!-- datos de libros se agregarán en esta sección, dinámicamente con el archivo javascript -->
+        </tbody>
+    </table>
+
+    <!-- custom css file link -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- custom js file link -->
+    <script src="js/script.js"></script>    
+</body>
+</html>
